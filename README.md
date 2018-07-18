@@ -1,5 +1,5 @@
 # pdfy
-Convert Any Webpage to a PDF using http://pdfy.net/  
+Convert Any Webpage to PDF using http://pdfy.net/  
 
 Usage:
 ```
